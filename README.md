@@ -14,3 +14,10 @@ All details of the dataset curation has been captured in the paper titled: Prabh
 MNIST: A new handwritten digits dataset for the Kannada language."https://arxiv.org/abs/
 
 1908.01242
+
+Purpose
+The classification of the images of hand-written digits, and the prediction of those numbers. A range of deep neural network architectures and techniques were applied with the final goal of finding the optimal model for the digits' predictions.
+
+Extract
+We are gonna compare the performance metrics using different type of classifiers.
+
